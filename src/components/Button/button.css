@@ -1,0 +1,33 @@
+.buttonAdd {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 4px;
+  background-color: #28a745;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.buttonAdd:hover {
+  background-color: #218838;
+}
+
+.buttonRemove {
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 15px;
+  
+}
+
+
+
+.buttonEdit {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 5px;
+}

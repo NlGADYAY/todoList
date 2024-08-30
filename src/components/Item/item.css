@@ -1,0 +1,31 @@
+.item {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 28px;
+  white-space: nowrap;
+}
+
+.editField {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  white-space: normal;
+}
+
+.buttonRemove {
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 15px;
+}
+
+.buttonEdit {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+  margin-left: 5px;
+}
